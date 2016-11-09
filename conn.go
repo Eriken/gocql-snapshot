@@ -19,7 +19,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gitlab.site-000.jotta.no/gocql/internal/streams"
+	"github.com/Eriken/gocql-snapshot/internal/streams"
 )
 
 var (

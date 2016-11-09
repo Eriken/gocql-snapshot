@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"gitlab.site-000.jotta.no/gocql/internal/lru"
+	"github.com/Eriken/gocql-snapshot/internal/lru"
 )
 
 const defaultMaxPreparedStmts = 1000
